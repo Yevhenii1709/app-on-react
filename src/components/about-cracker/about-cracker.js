@@ -4,7 +4,7 @@ import './about-cracker.scss';
 
 const AboutCracker = () => {
     return (
-        <div className = "">
+        <div className = "wraper-about">
             <h1>About Cracker</h1>
             <div className = "about">
                 <p>

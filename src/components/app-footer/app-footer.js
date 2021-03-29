@@ -4,7 +4,7 @@ import './app-footer.scss';
 
 const AppFooter = () => {
     return (
-        <div className='footer'>
+        <div className='footer-wrapper'>
             <div>
                 
             </div>
